@@ -156,6 +156,10 @@ align-items: flex-end;
     .mobileTake{
         width : 200%
     }
+    .omay img{
+        width: 150px;
+        height: 50px;
+    }
 }
 @media(max-width:600px) {
     .mobileTake{
