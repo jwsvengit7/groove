@@ -10,7 +10,7 @@ function Main(props:images){
 return (
     <div className="section">
         <section className="section-one display justify-space-between">
-        <img className="udux" src={Text} />
+        <img className="udux" src={Text}  alt={Text}/>
          <div className='omay'>
                 <img src={omay} alt={omay} width={250} height={80} />
          </div>
